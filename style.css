@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: #337ab7;
+    border: none;
+}
+
+.navbar-brand {
+    color: white !important;
+    font-weight: bold;
+}
+
+.navbar-toggle {
+    border-color: white;
+}
+
+.icon-bar {
+    background-color: white;
+}
+
+.navbar-nav li a {
+    color: white !important;
+}
+
+h1 {
+    margin-top: 20px;
+}
+
+.container-fluid .row {
+    background-color: #f8f9fa;
+    height: 1000px;
+    text-align: center;
+    padding-top: 20px;
+}
